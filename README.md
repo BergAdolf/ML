@@ -1,5 +1,5 @@
 # Intorduction to ML
-this is a machine learning repository, it is created for further learning for myself!
+A machine learning repository, created for further learning!
 
 JUST FOR FUN!!!😎 😎 😎 
 
