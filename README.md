@@ -1,6 +1,6 @@
 # Intorduction to ML
 A machine learning repository, created for further learning!  
-JUST FOR FUN!!!😎 😎 😎 
+
 <br/><br/>
 ## The contents of this repository
 * SVD
